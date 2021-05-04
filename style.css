@@ -3,6 +3,9 @@
 	padding:0px;
     box-shadow: border-box;
 }
+body{
+	background-color:skyblue;
+}
 
 .container{
 position:absolute;	
